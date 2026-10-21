@@ -9,11 +9,11 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Academic Portfolio
+description: "a professional portfolio for Dr. Ken Tsai with GitHub Pages"
 year: 2026
-author: ISU Cyclone
-bio:
+author: Ken Tsai, Ph.D. 
+bio: The Program Director and Associate Professor of Event Management Program 
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
