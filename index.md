@@ -1,6 +1,28 @@
 ---
-title: Academic Portfolio Template
+title: Dr. Ken Tsai Academic Portfolio
 ---
+
+# About Me
+
+## Bio
+
+## Classes
+
+# Hobbies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Write pages in Markdown.
 
